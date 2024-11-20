@@ -11,7 +11,7 @@ export default function Home() {
       <div>
         <RangeSlider />
       </div>
-      <h1>Gaussian Chart</h1>
+      <h1>Gauss Distribution</h1>
       <div>
         <GaussianChart />
       </div>
