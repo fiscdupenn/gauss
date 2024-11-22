@@ -1,7 +1,7 @@
 'use client';
 
 import React from "react";
-import RangeSlider from "./components/rangeslider";
+import RangeSlider from "./components/RangeSlider";
 import GaussianChart from "./components/GaussianChart";
 
 export default function Home() {
